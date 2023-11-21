@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Développeur et formateur web passionné, je m'investis dans la création de sites web performants et élégants. Avec une expérience de plus de 4 ans dans l'industrie, j'ai acquis une compréhension approfondie des meilleures pratiques de développement web. Mon travail a couvert une gamme variée de technologies en demande sur le marché.
+
 <!--
 **marwanmar123/marwanmar123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
